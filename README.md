@@ -14,22 +14,24 @@ We are the first to unify mirror and glass segmentation tasks into a single fram
 
 ***\*Schematic diagram of UniSAM:\****
 
-![fig1](C:\Users\18329\Desktop\UniSAM_README\fig1.jpg)
+<p align="center">
+  <img src="./img/fig1.jpg" alt="Image">
+</p>
 
-
-
-![fig3](C:\Users\18329\Desktop\UniSAM_README\fig3.jpg)
-
+<p align="center">
+  <img src="./img/fig3.jpg" alt="Image">
+</p>
 
 
 ***\*Example images：\****
 
-![fig5](C:\Users\18329\Desktop\UniSAM_README\fig5.jpg)
+<p align="center">
+  <img src="./img/fig5.jpg" alt="Image">
+</p>
 
-
-
-![fig6](C:\Users\18329\Desktop\UniSAM_README\fig6.jpg)
-
+<p align="center">
+  <img src="./img/fig6.jpg" alt="Image">
+</p>
 
 
 ***\*Train the model:\****
